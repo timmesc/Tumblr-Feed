@@ -1,4 +1,4 @@
-# Project 6 - Tumblr App
+# Project 5 - Tumblr App
 
 Submitted by: Charles Timmes
 
